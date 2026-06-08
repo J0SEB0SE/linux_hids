@@ -28,7 +28,8 @@ A lightweight Host Intrusion Detection System (HIDS) built in Python for monitor
 Build a baseline:
 
 ```bash
-python3 main.py --build
+chomd +x setup.sh
+./setup.sh
 ```
 
 Run a one-time scan:
